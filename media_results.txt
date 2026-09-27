@@ -1,0 +1,6 @@
+name	email	title	content
+Alice Johnson	alice@example.com	First Post	This is my first post.
+Ben Smith	ben@example.com	SQL Basics	Learning the basics of SQL.
+Carla Davis	carla@example.com	Data Science	A post about data science.
+Daniel Lee	daniel@example.com	Python	Learning Python programming.
+Emma Wilson	emma@example.com	Databases	Databases are useful.
